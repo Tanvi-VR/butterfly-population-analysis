@@ -1,12 +1,8 @@
 # Final Project
 
-<!-- EDIT with your badge link -->
-[![Reproducibility Check](https://github.com/espm-157/spatial-python-template/actions/workflows/main.yml/badge.svg)](https://github.com/espm-157/spatial-python-template/actions/workflows/main.yml)
+## Note
 
-## Team Members
-
-🦸 Emily Zhuo
-🦹 Tanvi Raman
+This project was created in collaboration with Emily Zhuo for the UC Berkeley course ESPM 157: Data Science for Global Change Ecology.
 
 ## Description
 
